@@ -6,18 +6,13 @@
       "link": "https://www.facebook.com/"
     },
     {
-      "name": "twitter",
-      "icon": "FaTwitter",
+      "name": "instagram",
+      "icon": "FaInstagram",
       "link": "https://twitter.com/"
     },
     {
-      "name": "github",
-      "icon": "FaGithub",
-      "link": "https://www.github.com/"
-    },
-    {
-      "name": "linkedin",
-      "icon": "FaLinkedin",
+      "name": "youtube",
+      "icon": "FaYoutube",
       "link": "https://www.linkedin.com/"
     }
   ]
